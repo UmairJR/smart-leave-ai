@@ -239,7 +239,7 @@ st.set_page_config(page_title="SmartLeave AI", page_icon="📝", layout="centere
 
 st.markdown(
     """
-    <h1 style='text-align: center; color: white;'>📝 SmartLeave AI</h1>
+    <h1 style='text-align: center;'>📝 SmartLeave AI</h1>
     <p style='text-align: center; font-size:18px; color: #7F8C8D;'>
     <b>Ask for leave, get instant answers.</b></p>
     <hr style="border: 1px solid #BDC3C7;">
